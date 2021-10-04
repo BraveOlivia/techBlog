@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Coding Olivia</title>
+    <link>https://braveolivia.github.io/techBlog/posts/</link>
+    <description>Coding Olivia (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Oct 2021 20:14:44 +1000</lastBuildDate>
+    
+    <atom:link href="https://braveolivia.github.io/techBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://braveolivia.github.io/techBlog/posts/my-first-post/</link>
+      <pubDate>Mon, 04 Oct 2021 20:14:44 +1000</pubDate>
+      
+      <guid>https://braveolivia.github.io/techBlog/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;daily-learning-notes&#34;&gt;Daily Learning Notes&lt;/h1&gt;
+&lt;h2 id=&#34;2021-10-3&#34;&gt;2021-10-3&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Create React App
+&lt;a href=&#34;https://create-react-app.dev/docs&#34;&gt;https://create-react-app.dev/docs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TypeScript Tutorial for JS Programmers Who Know How to Build a Todo App
+&lt;a href=&#34;https://ts.chibicode.com/todo/&#34;&gt;https://ts.chibicode.com/todo/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TypeScript cheatsheets
+&lt;a href=&#34;https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets&#34;&gt;https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create ToDone react project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2021-10-4&#34;&gt;2021-10-4&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; React routes - enable navigation between different pages (2h)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; React project structure industry practice (2h)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; TypeScript Basics - &lt;a href=&#34;https://hidevs.net/course/using-typescript-with-react&#34;&gt;https://hidevs.net/course/using-typescript-with-react&lt;/a&gt; (3h)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
