@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: ""
+baseUrl: "https://braveolivia.github.io/techBlog/"
 title: "Coding Olivia"
 theme: "anubis"
 paginate: 10
